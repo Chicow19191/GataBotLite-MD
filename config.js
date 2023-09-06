@@ -20,7 +20,7 @@ global.owner = [
 global.mods = [] 
 global.prems = []
    
-// ES ➜ Agregue el código de idioma el cual usará GataBot  
+// ES ➜ Agregue el código de idioma el cual usará es GataBot  
 // EN ➜ Add the language code which GataBot will use
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português 
